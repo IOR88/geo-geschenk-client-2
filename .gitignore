@@ -4,4 +4,4 @@
 */*.pyc
 __pycache__
 node_modules
-app/static/libs
+app/static/libs/*
