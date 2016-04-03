@@ -1,0 +1,8 @@
+{
+  "name": "geo-geschenk-client-2",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.5.3",
+    "socket.io-client": "~1.4.5"
+  }
+}
