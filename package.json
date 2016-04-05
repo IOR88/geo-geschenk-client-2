@@ -5,7 +5,8 @@
   "devDependencies": {},
   "dependencies": {
     "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "request": "^2.70.0"
   },
   "scripts": {},
   "main": "app/app.js"
