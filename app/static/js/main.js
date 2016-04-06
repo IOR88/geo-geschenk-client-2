@@ -22,6 +22,9 @@ angular
      }, 3000);
 
      function uploadFile(file){
+         /** TODO will be not handled by under node layer
+          *  TODO websocket should be moved to be handled by
+          *  TODO client -> server socket approach**/
 
          Upload.upload({
                 url: 'upload',
